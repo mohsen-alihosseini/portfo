@@ -1,0 +1,39 @@
+a {
+	color: white;
+}
+
+a:hover {
+	color: #bbb;
+}
+
+ul.socialLinks {
+	list-style-type: none;
+}
+
+.socialLinks li {
+	float: left;
+	margin-right: 36px;
+	margin-top: 16px;
+	margin-bottom: 16px;
+}
+
+.socialLinks span {
+	vertical-align: -webkit-baseline-middle;
+}
+
+.socialLinks img {
+	height: 24px;
+}
+
+ul.skills {
+	columns:2;
+}
+
+.skills li {
+	margin-right: 12px;
+	color: #bbb;
+}
+
+.btn {
+	margin: 4px;
+}
